@@ -24,6 +24,7 @@
 
 - SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability: [LINK](https://arxiv.org/abs/1706.05806)
 
+- Attentive History Selection for Conversational Question Answering: [LINK](https://arxiv.org/abs/1908.09456)
 
 
 ## Some related papers from discussion
