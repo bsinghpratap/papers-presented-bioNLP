@@ -18,7 +18,7 @@
 
 - Attention Guided Graph Convolutional Networks for Relation Extraction: [LINK](https://arxiv.org/abs/1906.07510)
 
-- When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion: [LINK](https://www.aclweb.org/anthology/P19-1116/) [BLOG](https://lena-voita.github.io/posts/acl19_context.html)
+- When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion: [LINK](https://www.aclweb.org/anthology/P19-1116/), [BLOG](https://lena-voita.github.io/posts/acl19_context.html)
 
 - Probing Neural Network Comprehension of Natural Language Arguments: [LINK](https://arxiv.org/pdf/1907.07355.pdf)
 
