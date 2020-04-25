@@ -26,6 +26,14 @@
 
 - Attentive History Selection for Conversational Question Answering: [LINK](https://arxiv.org/abs/1908.09456)
 
+- On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation: [LINK](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140#sec019)
+
+- Are Sixteen Heads Really Better than One?: [LINK](https://arxiv.org/pdf/1905.10650.pdf)
+
+- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned: [LINK](https://www.aclweb.org/anthology/P19-1580/)
+
+- Attending to Entities for Better Text Understanding: [LINK](https://arxiv.org/abs/1911.04361)
+
 
 ## Some related papers from discussion
 
