@@ -34,6 +34,8 @@
 
 - Attending to Entities for Better Text Understanding: [LINK](https://arxiv.org/abs/1911.04361)
 
+- Integrating Physiological Time Series and Clinical Notes with Deep Learning for Improved ICU Mortality Prediction: [Link](https://arxiv.org/pdf/2003.11059.pdf)
+
 
 ## Some related papers from discussion
 
