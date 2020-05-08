@@ -36,6 +36,7 @@
 
 - Integrating Physiological Time Series and Clinical Notes with Deep Learning for Improved ICU Mortality Prediction: [Link](https://arxiv.org/pdf/2003.11059.pdf)
 
+- Predictive Uncertainty Estimation via Prior Networks: [Link](https://papers.nips.cc/paper/7936-predictive-uncertainty-estimation-via-prior-networks.pdf)
 
 ## Some related papers from discussion
 
