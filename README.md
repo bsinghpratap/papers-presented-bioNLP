@@ -38,6 +38,8 @@
 
 - Predictive Uncertainty Estimation via Prior Networks: [Link](https://papers.nips.cc/paper/7936-predictive-uncertainty-estimation-via-prior-networks.pdf)
 
+- Latent Retrieval for Weakly Supervised Open Domain Question Answering: [Link](https://arxiv.org/abs/1906.00300)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
