@@ -40,6 +40,8 @@
 
 - Latent Retrieval for Weakly Supervised Open Domain Question Answering: [Link](https://arxiv.org/abs/1906.00300)
 
+- BATCHENSEMBLE: An Alternative Approach to Efficient Ensemble and Lifelong Learning: [Link](https://openreview.net/pdf?id=Sklf1yrYDr)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
