@@ -42,6 +42,12 @@
 
 - BATCHENSEMBLE: An Alternative Approach to Efficient Ensemble and Lifelong Learning: [Link](https://openreview.net/pdf?id=Sklf1yrYDr)
 
+- Learning to Deceive with Attention-Based Explanations [LINK](https://arxiv.org/abs/1909.07913)
+
+- Predicting Performance for Natural Language Processing Tasks [LINK](https://arxiv.org/abs/2005.00870)
+
+- ConCare: Personalized Clinical Feature Embedding via Capturing the Healthcare Context [LINK](https://arxiv.org/pdf/1911.12216.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
