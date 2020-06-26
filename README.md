@@ -48,6 +48,10 @@
 
 - ConCare: Personalized Clinical Feature Embedding via Capturing the Healthcare Context [LINK](https://arxiv.org/pdf/1911.12216.pdf)
 
+- Relation of the Relations: A New Paradigm of the Relation Extraction Problem [LINK](https://arxiv.org/abs/2006.03719)
+
+- Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting [LINK](https://arxiv.org/pdf/1709.01604.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
