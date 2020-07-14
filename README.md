@@ -52,6 +52,12 @@
 
 - Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting [LINK](https://arxiv.org/pdf/1709.01604.pdf)
 
+- Word-level Textual Adversarial Attacking as Combinatorial Optimization [LINK](https://www.aclweb.org/anthology/2020.acl-main.540.pdf)
+
+- A Reinforced Generation of Adversarial Examples for Neural Machine Translation [LINK](https://www.aclweb.org/anthology/2020.acl-main.319.pdf)
+
+- A Simple and Effective Unified Encoder for Document-Level Machine Translation [LINK](https://www.aclweb.org/anthology/2020.acl-main.321.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
