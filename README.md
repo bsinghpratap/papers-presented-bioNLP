@@ -58,6 +58,12 @@
 
 - A Simple and Effective Unified Encoder for Document-Level Machine Translation [LINK](https://www.aclweb.org/anthology/2020.acl-main.321.pdf)
 
+- Shortcut Learning in Deep Neural Network [LINK](https://arxiv.org/pdf/2004.07780.pdf)
+
+- Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks [LINK](https://www.aclweb.org/anthology/2020.acl-main.268.pdf)
+
+- Learning Conceptual-Contextual Embeddings for Medical Text [LINK](https://arxiv.org/abs/1908.06203)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
