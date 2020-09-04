@@ -62,6 +62,8 @@
 
 - Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks [LINK](https://www.aclweb.org/anthology/2020.acl-main.268.pdf)
 
+- Sum Product Networks [LINK](https://arxiv.org/pdf/1202.3732.pdf)
+
 - Learning Conceptual-Contextual Embeddings for Medical Text [LINK](https://arxiv.org/abs/1908.06203)
 
 ## Some related papers from discussion
