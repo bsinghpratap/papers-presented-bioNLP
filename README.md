@@ -66,6 +66,10 @@
 
 - Learning Conceptual-Contextual Embeddings for Medical Text [LINK](https://arxiv.org/abs/1908.06203)
 
+- Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering [LINK](https://arxiv.org/pdf/2007.01282.pdf)
+
+-  Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts [LINK](https://www.aclweb.org/anthology/2020.acl-main.2.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
