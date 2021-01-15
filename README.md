@@ -70,6 +70,62 @@
 
 -  Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts [LINK](https://www.aclweb.org/anthology/2020.acl-main.2.pdf)
 
+- Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering [LINK](https://arxiv.org/abs/1909.05311)
+
+- ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning [LINK](https://arxiv.org/abs/1811.00146)
+
+- Why is my classifier discriminatory? [LINK](https://arxiv.org/pdf/1805.12002.pdf)
+
+- Disagreement-Regularized Imitation Learning [LINK](https://openreview.net/pdf?id=rkgbYyHtwB) 
+
+- BART [LINK](https://arxiv.org/abs/1910.13461)
+
+- A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction [LINK](https://link.springer.com/article/10.1007/s13042-020-01155-x)
+
+- Graph Neural Network-Based Diagnosis Prediction [LINK](https://www.liebertpub.com/doi/10.1089/big.2020.0070)
+
+- Reading Wikipedia to Answer Open-Domain Questions
+
+- REALM: Retrieval-Augmented Language Model Pre-Training
+
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+
+- Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering
+
+- The Lottery Ticket Hypothesis for Pre-trained BERT Networks [LINK](https://arxiv.org/abs/2007.12223)
+
+- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [LINK](https://arxiv.org/pdf/1910.01108) 
+
+- TinyBERT: Distilling BERT fro Natural Language Understanding [LINK](https://arxiv.org/abs/1909.10351)
+
+- Not Enough Data? Deep Learning to the Rescue! [LINK](https://arxiv.org/abs/1911.03118)
+
+- Unsupervised Domain Adaptation of a Pretrained Cross-lingual Language Model
+
+- Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-training
+
+- An Unsupervised Sentence Embedding Method by Mutual Information Maximization
+
+- Generating Accurate Electronic Health Assessment from Medical Graph
+
+- Med-BERT: pre-trained contextualized embeddings on large-scale structuredelectronic health records for disease prediction.
+
+- Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer (NAACL-HLT 2018)
+
+- Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer (EMNLP-2019) 3.Parallel Data Augmentation for Formality Style Transfer
+
+- Efficient Transformers: A Survey [LINK](https://arxiv.org/abs/2009.06732)
+
+- Serial Recall Effects in Neural Language Modeling [LINK](https://www.aclweb.org/anthology/N19-1073.pdf)
+
+- Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19 [LINK](https://www.medrxiv.org/content/medrxiv/early/2020/08/14/2020.08.11.20172809.full.pdf)
+
+- Learning Graphical Structure of Electronic Health Records with Transformer for Predictive Healthcare [LINK](https://arxiv.org/abs/1906.04716)
+
+- Pointer Graph Networks [LINK](https://arxiv.org/abs/2006.06380)  
+
+- Understanding Black-box Predictions via Influence Functions [LINK](https://arxiv.org/pdf/1703.04730.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
