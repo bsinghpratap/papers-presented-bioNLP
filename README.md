@@ -1,4 +1,4 @@
-# List of papers presented during Journal Club | BioNLP Lab, UMass-Amherst.
+# List of papers presented during Journal Club | BioNLP Lab, UMass-Amherst and Text Machine Lab, UMass Lowell.
 
 - [Improved Pretraining for Domain-specific Contextual Embedding Models](https://arxiv.org/abs/2004.02288)
 
@@ -128,7 +128,7 @@
 
 - [Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](https://arxiv.org/abs/2006.06609)
 
-- [EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets](https://arxiv.org/abs/2101.00063)
+- [EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets](https://arxiv.org/abs/2101.00063) [PPT](https://docs.google.com/presentation/d/10lJS5rCLQvNmesLOfkQeeUq452MzTALLOQqjygCw_y4/edit?usp=sharing)
 -- Relevant reading: https://arxiv.org/abs/2007.12223, https://arxiv.org/pdf/2005.00561
 
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/pdf/2008.02496.pdf)
