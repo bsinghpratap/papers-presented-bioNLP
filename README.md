@@ -126,6 +126,12 @@
 
 - Understanding Black-box Predictions via Influence Functions [LINK](https://arxiv.org/pdf/1703.04730.pdf)
 
+- [Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](https://arxiv.org/abs/2006.06609)
+
+- EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets [LINK](https://arxiv.org/abs/2101.00063)
+
+- [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/pdf/2008.02496.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
