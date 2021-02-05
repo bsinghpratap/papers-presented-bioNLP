@@ -58,31 +58,31 @@
 
 - [A Simple and Effective Unified Encoder for Document-Level Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.321.pdf)
 
-- Shortcut Learning in Deep Neural Network [LINK](https://arxiv.org/pdf/2004.07780.pdf)
+- [Shortcut Learning in Deep Neural Network](https://arxiv.org/pdf/2004.07780.pdf)
 
-- Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks [LINK](https://www.aclweb.org/anthology/2020.acl-main.268.pdf)
+- [Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks](https://www.aclweb.org/anthology/2020.acl-main.268.pdf)
 
-- Sum Product Networks [LINK](https://arxiv.org/pdf/1202.3732.pdf)
+- [Sum Product Networks](https://arxiv.org/pdf/1202.3732.pdf)
 
-- Learning Conceptual-Contextual Embeddings for Medical Text [LINK](https://arxiv.org/abs/1908.06203)
+- [Learning Conceptual-Contextual Embeddings for Medical Text](https://arxiv.org/abs/1908.06203)
 
-- Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering [LINK](https://arxiv.org/pdf/2007.01282.pdf)
+- [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/pdf/2007.01282.pdf)
 
--  Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts [LINK](https://www.aclweb.org/anthology/2020.acl-main.2.pdf)
+-  [Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts](https://www.aclweb.org/anthology/2020.acl-main.2.pdf)
 
-- Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering [LINK](https://arxiv.org/abs/1909.05311)
+- [Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](https://arxiv.org/abs/1909.05311)
 
-- ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning [LINK](https://arxiv.org/abs/1811.00146)
+- [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://arxiv.org/abs/1811.00146)
 
-- Why is my classifier discriminatory? [LINK](https://arxiv.org/pdf/1805.12002.pdf)
+- [Why is my classifier discriminatory?](https://arxiv.org/pdf/1805.12002.pdf)
 
-- Disagreement-Regularized Imitation Learning [LINK](https://openreview.net/pdf?id=rkgbYyHtwB) 
+- [Disagreement-Regularized Imitation Learning](https://openreview.net/pdf?id=rkgbYyHtwB) 
 
-- BART [LINK](https://arxiv.org/abs/1910.13461)
+- [BART](https://arxiv.org/abs/1910.13461)
 
-- A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction [LINK](https://link.springer.com/article/10.1007/s13042-020-01155-x)
+- [A hybrid method of recurrent neural network and graph neural network for next-period prescription prediction](https://link.springer.com/article/10.1007/s13042-020-01155-x)
 
-- Graph Neural Network-Based Diagnosis Prediction [LINK](https://www.liebertpub.com/doi/10.1089/big.2020.0070)
+- [Graph Neural Network-Based Diagnosis Prediction](https://www.liebertpub.com/doi/10.1089/big.2020.0070)
 
 - Reading Wikipedia to Answer Open-Domain Questions
 
@@ -92,13 +92,13 @@
 
 - Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering
 
-- The Lottery Ticket Hypothesis for Pre-trained BERT Networks [LINK](https://arxiv.org/abs/2007.12223)
+- [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
 
-- DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter [LINK](https://arxiv.org/pdf/1910.01108) 
+- [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108) 
 
-- TinyBERT: Distilling BERT fro Natural Language Understanding [LINK](https://arxiv.org/abs/1909.10351)
+- [TinyBERT: Distilling BERT fro Natural Language Understanding](https://arxiv.org/abs/1909.10351)
 
-- Not Enough Data? Deep Learning to the Rescue! [LINK](https://arxiv.org/abs/1911.03118)
+- [Not Enough Data? Deep Learning to the Rescue!](https://arxiv.org/abs/1911.03118)
 
 - Unsupervised Domain Adaptation of a Pretrained Cross-lingual Language Model
 
@@ -114,21 +114,21 @@
 
 - Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer (EMNLP-2019) 3.Parallel Data Augmentation for Formality Style Transfer
 
-- Efficient Transformers: A Survey [LINK](https://arxiv.org/abs/2009.06732)
+- [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 
-- Serial Recall Effects in Neural Language Modeling [LINK](https://www.aclweb.org/anthology/N19-1073.pdf)
+- [Serial Recall Effects in Neural Language Modeling](https://www.aclweb.org/anthology/N19-1073.pdf)
 
-- Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19 [LINK](https://www.medrxiv.org/content/medrxiv/early/2020/08/14/2020.08.11.20172809.full.pdf)
+- [Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19](https://www.medrxiv.org/content/medrxiv/early/2020/08/14/2020.08.11.20172809.full.pdf)
 
-- Learning Graphical Structure of Electronic Health Records with Transformer for Predictive Healthcare [LINK](https://arxiv.org/abs/1906.04716)
+- [Learning Graphical Structure of Electronic Health Records with Transformer for Predictive Healthcare](https://arxiv.org/abs/1906.04716)
 
-- Pointer Graph Networks [LINK](https://arxiv.org/abs/2006.06380)  
+- [Pointer Graph Networks](https://arxiv.org/abs/2006.06380)  
 
-- Understanding Black-box Predictions via Influence Functions [LINK](https://arxiv.org/pdf/1703.04730.pdf)
+- [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf)
 
 - [Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](https://arxiv.org/abs/2006.06609)
 
-- EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets [LINK](https://arxiv.org/abs/2101.00063)
+- [EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets](https://arxiv.org/abs/2101.00063)
 -- Relevant reading: https://arxiv.org/abs/2007.12223, https://arxiv.org/pdf/2005.00561
 
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/pdf/2008.02496.pdf)
