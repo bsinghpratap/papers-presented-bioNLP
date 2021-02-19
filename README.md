@@ -133,6 +133,10 @@
 
 - [ConvBERT: Improving BERT with Span-based Dynamic Convolution](https://arxiv.org/pdf/2008.02496.pdf)
 
+- [Contrastive Learning Improves Critical Event Prediction in COVID-19 Patients](https://arxiv.org/pdf/2101.04013.pdf)
+
+- [Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf)
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
