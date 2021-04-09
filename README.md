@@ -137,6 +137,15 @@
 
 - [Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf)
 
+- [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB)
+
+- [Electric](https://arxiv.org/pdf/2012.08561.pdf)
+
+- [Evaluating the Factual Consistency of Abstractive Text Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.750.pdf)
+
+- [Parameter Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
+
+
 ## Some related papers from discussion
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding: [LINK](https://arxiv.org/abs/1810.04805)
