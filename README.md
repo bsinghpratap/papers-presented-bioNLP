@@ -145,6 +145,9 @@
 
 - [Parameter Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
 
+- [Extracting training data from large language models](https://arxiv.org/pdf/2012.07805.pdf)
+
+- [Continual Learning with Knowledge Transfer for Sentiment Classification](https://www.cs.uic.edu/~liub/publications/ECML-PKDD-2020.pdf)
 
 ## Some related papers from discussion
 
